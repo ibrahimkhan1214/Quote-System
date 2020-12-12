@@ -27,7 +27,7 @@ $id = $_POST['username'];
     <input class="user" type="text" placeholder="Username" name="username"><br/><br/>
     <input class="pass" type="password" placeholder="Password" name="password"><br/><br/>
     <input class="sub" type="submit" value="Login" name="submit"><br>
-    <a href="homepage.php" >Back to Portal</a>
+    <a href="index.php" >Back to Portal</a>
     </form>  
     </center>
    </body>
