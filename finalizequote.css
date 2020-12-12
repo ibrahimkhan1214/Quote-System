@@ -1,0 +1,197 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #16697a;
+
+}
+.back
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+}
+.drop
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+}
+
+.Q_id
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.Date
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.customer_name
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.Discount
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.Email
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.Description
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.Secret
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.Price
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.search
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.search:hover
+{
+  background: #2ecc71;
+}
+
+.finalize
+{
+  border:0;
+  background: none;
+  margin: 20px auto;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: orange;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+
+}
+.finalize:hover
+{
+  background: #2ecc71;
+}
+

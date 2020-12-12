@@ -1,0 +1,175 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #bedcfa;
+}
+
+.heading1{
+  color: #120078;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-align: center;
+}
+
+#logout{
+  color: #120078;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-align: center;
+}
+
+#message{
+  color: #120078;
+  font-weight: 400;
+  text-align: center;
+}
+
+#quotes
+{
+  border:0;
+  background-color: #98acf8;
+  margin: 20px auto;
+  border: 2px solid #98acf8;
+  padding: 14px 40px;
+  outline: none;
+  color: black;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+}
+
+#edit_quote
+{
+  border:0;
+  background-color: #98acf8;
+  margin: 20px auto;
+  border: 2px solid #98acf8;
+  padding: 14px 40px;
+  outline: none;
+  color: black;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: 800;
+  border-radius: 24px;
+}
+
+#quotes tr:nth-child(even){background-color: #f2f2f2;}
+
+#quotes tr:hover {background-color: #ddd;}
+
+
+#submit_changes
+{
+  border:2;
+  background: #bce6eb;
+  font-weight: 800;
+}
+.submit:hover{
+  background: #2ecc71;
+}
+.assoc_id
+{
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #3498db;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  color: #898b8a;
+  border-radius: 24px;
+  transition: 0.25s;
+}
+.assoc_id option
+{
+background: black;
+}
+.date
+{
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #3498db;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  color: #898b8a;
+  border-radius: 24px;
+  transition: 0.25s;
+
+}
+.client
+{
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #3498db;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  color: #898b8a;
+  border-radius: 24px;
+  transition: 0.25s;
+}
+.client option
+{
+background: black;
+}
+.price
+{
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #3498db;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  border-radius: 24px;
+  transition: 0.25s;
+}
+.price::selected
+{
+  border-radius: 24px;
+  transition: 0.25s;
+background: #8bcdcd;
+}
+.email
+{
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #3498db;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  border-radius: 24px;
+  transition: 0.25s;
+
+}
+.desc
+{
+border-radius: 14px;
+background: #8bcdcd;
+outline: none;
+margin: none;
+}
+.secret
+{
+border-radius: 14px;
+background: #8bcdcd;
+outline: none;
+margin: none;
+}
