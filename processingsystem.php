@@ -87,7 +87,7 @@ $price_disc = mysqli_fetch_assoc($result8);
 
 <body> <h2> Select and Process a Quote </h2> <a
 
-href="homepage.php">Return</a> 
+href="index.php">Return</a> 
 <h3><?=$message3;?></h3> 
 
 <form action="processingsystem.php" method ="POST">
