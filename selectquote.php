@@ -59,7 +59,7 @@ $quo = $_POST['quote_id'];
 </select>
 <div style="text-align:center">
 <input class="submit" type="submit" name="submit" placeholder="quote id" ></input>
-<br><br><br><a href="homepage.php">Back to Portal</a>
+<br><br><br><a href="index.php">Back to Portal</a>
 </div>
 <a href="processingsystem.php?id=$quo"></a>
 
